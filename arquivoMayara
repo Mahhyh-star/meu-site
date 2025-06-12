@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"
+    <title> Vídeo </title>
+    <link rel ="Stylesheet" href ="style.css">
+    </head>
+    <body>
+        <div class ="video-box">
+        <iframe width ="560" height ="315" src ="https://www.youtube.com/embed/kNJPa/ON82E" Frameborder ="0" allowfullscreen></iframe>
+        <div class ="info">
+            <h1> Título </h1>
+            <p> Descrição breve do vídeo. </p>
+    </div>
+    </div>
+    </body>
+    </html>
